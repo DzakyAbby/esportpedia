@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">esportpedia</string>
+    <string name="hero_primary_atribute">Hero Primary atribute</string>
+    <string name="hero_type">Hero Type</string>
+    <string name="hero_name">Hero name</string>
+    <string name="hero_attack_range">Hero Attack Range</string>
+    <string name="hero_base_health">Hero Base Health</string>
+    <string name="hero_base_mana">Hero base mana</string>
+    <string name="hero_role">Hero role</string>
+</resources>
